@@ -1,1 +1,22 @@
 // app global css in SCSS form
+
+.section-title span {
+  top: 30px;
+  text-transform: uppercase;
+}
+.text-light {
+  color: #eef0f2 !important;
+}
+.fw-bolder {
+  font-weight: bolder !important;
+}
+.fs-1 {
+  font-size: 3em !important;
+}
+.section-title h2 {
+  text-transform: uppercase;
+  bottom: 0.6em;
+}
+.fs-2 {
+  font-size: 2em !important;
+}
